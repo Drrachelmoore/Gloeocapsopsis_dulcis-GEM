@@ -3,7 +3,7 @@
 * Brief Model Description:
 
 This repository contains the current genome-scale metabolic model of the photoautorophic and highly desiccation-resistant cyanobacterium _Gloeocapsopsis dulcis_ strain AAB1, named **Gloeocapsopsis_dulcis-GEM**. The model contains 3 compartments: extracellular [e0], cytosol [c0], and thylakoid [u0]. 
-* Last updated: 2023-02-27
+* Last updated: 2023-08-15
 
 * Main Model Descriptors:
 
